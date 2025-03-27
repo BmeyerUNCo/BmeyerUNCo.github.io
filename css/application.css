@@ -1,10 +1,10 @@
 @font-face {
   font-family: Font1;
-  src: url("BungeeTint-Regular.ttf");
+  src: url("fonts/BungeeTint-Regular.ttf");
 }
 @font-face {
   font-family: Font2;
-  src: url("Bytesized-Regular.ttf");
+  src: url("fonts/Bytesized-Regular.ttf");
 }
 h1 {
   font-family: Font1;
