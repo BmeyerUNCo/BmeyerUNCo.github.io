@@ -7,9 +7,11 @@
   src: url("Bytesized-Regular.ttf")
 }
 h1 {
+  font-family:Font1;
   text-align: center;
 }
 h2 {
+  font-family:Font2;
   text-align: center;
 }
 iframe {
