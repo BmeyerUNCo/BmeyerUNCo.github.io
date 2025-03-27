@@ -39,7 +39,8 @@ img
             }
   table
            {
-               margin: auto;
+             display:block;  
+             margin: auto;
            }
   img
            { 
