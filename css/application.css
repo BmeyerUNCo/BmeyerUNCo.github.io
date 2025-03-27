@@ -19,7 +19,7 @@ img
             {
                 height: 100px;
             }
-  td, th
+  td, th, tr
             {
                 border: 2px white;
                 padding: 15px;
