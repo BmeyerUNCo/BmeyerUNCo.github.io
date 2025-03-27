@@ -11,16 +11,18 @@ h1 {
   text-align: center;
 }
 h2 {
-  font-family: Font2;
+   font-family: Font2;
   text-align: center;
 }
 iframe {
   text-align: center;
 }
 ul {
+   font-family: Font2;
   text-align: center;
 }
 p {
+   font-family: Font2;
   text-align: center;
 }
 table {
@@ -44,3 +46,7 @@ img
                 display:block;
                margin: auto;
            }
+  body     {
+             font-family: Font2;
+
+        }
