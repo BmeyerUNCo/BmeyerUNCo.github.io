@@ -2,4 +2,8 @@
         .center-text {
             text-align: center;
         }
-
+.container {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
