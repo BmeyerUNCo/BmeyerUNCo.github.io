@@ -15,8 +15,17 @@ p {
 }
 table {
   text-align: center;
-}
- img
+img
             {
                 height: 100px;
             }
+  td, th
+            {
+                border: 2px white;
+                padding: 15px;
+                background-color: tan;
+            }
+  table
+           {
+               margin: auto;
+           }
