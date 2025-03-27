@@ -1,3 +1,11 @@
+@font-face {
+  font-family:Font1
+  src: url("BungeeTint-Regular.ttf")
+}
+@font-face {
+  font-family:Font2
+  src: url("Bytesized-Regular.ttf")
+}
 h1 {
   text-align: center;
 }
