@@ -3,6 +3,7 @@
   src: url("fonts/CassandraPersonalUseRegular-3BjG.ttf");
 }
 h1 {
+  font-family: Font1;
   text-align: center;
 }
 ul {
@@ -19,6 +20,7 @@ p {
   width: 50%;
 }
 h2 {
+  font-family: Font1;
   text-align: center;
 }
 li {
