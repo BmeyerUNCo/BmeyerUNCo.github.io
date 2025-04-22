@@ -1,6 +1,6 @@
 @font-face {
   font-family: Font1;
-  src: url("fonts/CassandraPersonalUseRegular-3BjG.ttf");
+  src: url("css/fonts/CassandraPersonalUseRegular-3BjG.ttf");
 }
 h1 {
   font-family: Font1;
