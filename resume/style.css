@@ -1,9 +1,9 @@
 @font-face {
-  font-family: Font1;
+  font-family: Byte;
   src: url("css/fonts/Bytesized-Regular.ttf");
 }
 h1 {
-  font-family: Font1;
+  font-family: Byte;
   text-align: center;
 }
 ul {
@@ -20,7 +20,7 @@ p {
   width: 50%;
 }
 h2 {
-  font-family: Font1;
+  font-family: Byte;
   text-align: center;
 }
 li {
