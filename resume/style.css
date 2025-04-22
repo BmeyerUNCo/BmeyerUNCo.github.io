@@ -2,6 +2,7 @@ h1 {
   text-align: center;
 }
 ul {
+   list-style-position: inside;
   text-align: center;
 }
 p {
@@ -19,6 +20,4 @@ h2 {
 li {
   text-align: center;
 }
-ul {
-  text-align: center;
-}
+
