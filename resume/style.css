@@ -1,7 +1,9 @@
-@font-face {
-  font-family: 'Byte';
-  src: url("fonts/Bytesized-Regular.ttf");
+@font-face
+{
+    font-family: 'Byte';
+    src: url(fonts/ShareTech.ttf);
 }
+
 h1 {
   font-family: 'Byte';
   text-align: center;
