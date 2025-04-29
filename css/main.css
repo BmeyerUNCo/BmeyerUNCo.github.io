@@ -68,4 +68,6 @@ img
   width: 100%;
   border-collapse: collapse;
 }
-
+iframe, object, embed {
+    max-width: 100%;
+}
