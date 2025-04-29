@@ -6,6 +6,11 @@
   font-family: Font2;
   src: url("fonts/Bytesized-Regular.ttf");
 }
+@media (max-width: 600px) {
+            .container {
+                font-size: 14px;
+            }
+        }
 h1 {
   font-family: Font1;
   text-align: center;
