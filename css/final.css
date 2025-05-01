@@ -1,0 +1,149 @@
+element.style {
+}
+#section-header, #section-content, #section-buttons, #section-cap, #section-store-pics {
+    background-color: #fff;
+}
+#section-content {
+    border-top: 24px solid var(--yellow);
+}
+div.section-container, div.section-container *, #body-container {
+    transition: all 0.2s ease-in-out;
+}
+.section-container {
+    display: flex
+;
+    flex-direction: column;
+}
+.pl-0, .px-0 {
+    padding-left: 0 !important;
+}
+.pr-0, .px-0 {
+    padding-right: 0 !important;
+}
+.container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    margin: 0;
+    font-family: Nunito;
+    font-size: 0.9375rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #131313;
+    text-align: left;
+    background-color: #333;
+}
+<style>
+:host, :root {
+    --fa-style-family-classic: "Font Awesome 6 Free";
+    --fa-font-solid: normal 900 1em / 1 "Font Awesome 6 Free";
+}
+<style>
+:host, :root {
+    --fa-font-regular: normal 400 1em / 1 "Font Awesome 6 Free";
+}
+<style>
+:host, :root {
+    --fa-style-family-brands: "Font Awesome 6 Brands";
+    --fa-font-brands: normal 400 1em / 1 "Font Awesome 6 Brands";
+}
+:root {
+    --orsd-color: #93C03F;
+    --orsd-color-blue: #2b5991;
+    --palette-a: #b11800;
+    --palette-b: #ed9b08;
+    --palette-c: #222222;
+    --palette-d: #ffffff;
+    --palette-e: #ffffff;
+    --palette-f: #ffffff;
+    --palette-g: #ffffff;
+    --palette-h: #ffffff;
+    --palette-a-yiq: #ffffff;
+    --palette-b-yiq: #ffffff;
+    --palette-c-yiq: #ffffff;
+    --palette-d-yiq: #131313;
+    --palette-e-yiq: #131313;
+    --palette-f-yiq: #131313;
+    --palette-g-yiq: #131313;
+    --palette-h-yiq: #131313;
+    --primary-yiq: #ffffff;
+    --secondary-yiq: #131313;
+    --success-yiq: #ffffff;
+    --info-yiq: #ffffff;
+    --warning-yiq: #ffffff;
+    --danger-yiq: #ffffff;
+    --light-yiq: #131313;
+    --dark-yiq: #ffffff;
+    --blue-yiq: #ffffff;
+    --indigo-yiq: #ffffff;
+    --purple-yiq: #ffffff;
+    --pink-yiq: #ffffff;
+    --red-yiq: #ffffff;
+    --orange-yiq: #ffffff;
+    --yellow-yiq: #ffffff;
+    --green-yiq: #ffffff;
+    --teal-yiq: #ffffff;
+    --cyan-yiq: #ffffff;
+    --white-yiq: #131313;
+    --gray-yiq: #ffffff;
+    --gray-dark-yiq: #ffffff;
+}
+:root {
+    --blue: #1a2d66;
+    --indigo: #6610f2;
+    --purple: #9b479f;
+    --pink: #e83e8c;
+    --red: #b11800;
+    --orange: #d9831f;
+    --yellow: #ed9b08;
+    --green: #43ac6a;
+    --teal: #20c997;
+    --cyan: #029acf;
+    --white: #ffffff;
+    --gray: #989898;
+    --gray-dark: #292929;
+    --gray-light: #dadada;
+    --primary: #ed9b08;
+    --secondary: #f0f0f0;
+    --success: #43ac6a;
+    --info: #1a2d66;
+    --warning: #ed9b08;
+    --danger: #b11800;
+    --light: #f0f0f0;
+    --dark: #131313;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: Nunito;
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+html {
+    font-size: 100%;
+    line-height: 1.5;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
