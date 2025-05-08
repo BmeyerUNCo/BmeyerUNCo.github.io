@@ -21,7 +21,7 @@
 
 .nav-flex-row li a {
     font-family: 'Big Shoulders Text', cursive;
-    color: #ffffff;
+    color: #000000;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 300;
@@ -39,7 +39,7 @@
 
 .section-intro h1 {
     text-align: center;
-    color: #ffffff;
+    color: #000000;
     font-size: 4em;
     font-weight: 700;
 }
@@ -64,14 +64,14 @@
 }
 
 .link-to-book {
-    color: #ffffff;
+    color: #000000;
     display: block;
-    border: 2px solid #ffffff;
+    border: 2px solid #000000;
     padding: 5px 10px;
 }
 
 a.link-to-book:hover {
-    background-color: #ffffff;
+    background-color: #000000;
     color: #95999e;
     text-decoration: none;
 }
